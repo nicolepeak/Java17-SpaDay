@@ -24,5 +24,6 @@ public class SpaDayController {
         model.addAttribute("client" , newClient);
 
         return "menu";
+
     }
 }
